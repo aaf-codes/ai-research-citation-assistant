@@ -1,0 +1,1 @@
+An automated tool for researchers that leverages AI to accurately extract, format, and manage citations from academic papers, simplifying the literature review process through a Python-driven web interface.
